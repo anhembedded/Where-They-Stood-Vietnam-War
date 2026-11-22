@@ -1,0 +1,56 @@
+# Episode Research Notes — The Strategic Hamlet Program (1962–1963)
+
+**Where They Stood: Vietnam War · Episode 1**
+
+## Episode overview
+
+This episode asks why the Republic of Vietnam reorganized rural communities into strategic hamlets and what early reports measured. It focuses on South Vietnam in 1962–1963, with Củ Chi as the opening case. Timecodes match the final cut (`8:26`).
+
+## Primary sources
+
+- **Photographic record:** [Truman Library, Củ Chi fence and trench](https://www.trumanlibrary.gov/photograph-records/2014-1951).
+- **Policy documents:** Republic of Vietnam, Decree 11-TTP, available in Vietnamese transcription in Phạm Đức Thuận’s dissertation (Appendix 12) and described in [FRUS II, doc. 46](https://history.state.gov/historicaldocuments/frus1961-63v02/d46). [Thompson policy draft](https://history.state.gov/historicaldocuments/frus1961-63v02/d51) and [Hilsman policy assessment](https://history.state.gov/historicaldocuments/frus1961-63v02/d332).
+- **Field accounts:** [Donnell and Hickey, RAND RM-3208-ARPA](https://www.rand.org/pubs/research_memoranda/RM3208.html) and [Heavner’s letter relaying the survey team’s observations](https://history.state.gov/historicaldocuments/frus1961-63v02/d116).
+- **Official assessments:** [Taylor’s memorandum, 17 November 1962](https://history.state.gov/historicaldocuments/frus1961-63v02/d319), [the Long An telegram, 7 December 1963](https://history.state.gov/historicaldocuments/frus1961-63v04/d352), and [Michael V. Forrestal’s memorandum to President Johnson, 11 December 1963](https://history.state.gov/historicaldocuments/frus1961-63v04/d360).
+- **Regional military instructions:** Republic of Vietnam, Third Tactical Zone Instruction on the organization of strategic and fighting hamlets, 16 March 1962, cited in Phạm Đức Thuận (2017), pp. 63–64 and Lê Đình Trọng & Nguyễn Hoàng Nhựt (2024), pp. 173–174.
+
+## Secondary sources
+
+- [Nguyễn Hoàng Nhựt and Lê Đình Trọng, article on strategic hamlets in Bình Minh, Vĩnh Long (2024)](https://dthujs.vn/index.php/dthujs/article/view/1913), pp. 173–174.
+- [U.S. Department of Defense, The Pentagon Papers](https://www.archives.gov/research/pentagon-papers), part IV.B.2, Summary and Analysis, pp. i–ii, a retrospective assessment.
+
+## Claim-to-source mapping
+
+| In the film | Where to look | What the evidence supports and where it stops |
+| :--- | :--- | :--- |
+| **0:00–0:56 · The fence and ditch at Củ Chi** | Arthur Z. Gardiner · Gardiner Papers · Harry S. Truman Presidential Library & Museum · NARA NAID 348663381 · 3 March 1962. [Archive record](https://www.trumanlibrary.gov/photograph-records/2014-1951) | The archive identifies the place, date and subject of the photograph. The photograph does not identify workers interviewed in the field survey or establish changes in local security. |
+| **0:56–1:30 · Planning for rural security and government** | Robert Thompson, draft plan, sections *Aims* and *General Concept*. Roger Hilsman, 19 December 1962, opening and section on isolating the Viet Cong. [FRUS II, doc. 51](https://history.state.gov/historicaldocuments/frus1961-63v02/d51) · [FRUS II, doc. 332](https://history.state.gov/historicaldocuments/frus1961-63v02/d332) | Thompson’s draft sets out a proposed approach for the delta. Hilsman gives an American policy assessment. These documents explain proposals and expectations, rather than recording what each hamlet received or how it operated. |
+| **1:30–2:04 · Establishing the committees** | Republic of Vietnam, Decree 11-TTP, 3 February 1962, arts. 1, 2 and 6. Consult the Vietnamese transcription in Phạm Đức Thuận’s dissertation, Appendix 12, pp. 214–216, and the US editors’ note. Taylor addresses the later approval of the national plan in §1 of his November memorandum. [Dissertation PDF](https://www.dhsphue.edu.vn/media/db_html_cmp_020501/20170724074102_toan_van_luan_an_tien_si-_lsvn_-_pham_duc_thuan.pdf) · [FRUS II, doc. 46](https://history.state.gov/historicaldocuments/frus1961-63v02/d46) · [FRUS II, doc. 319](https://history.state.gov/historicaldocuments/frus1961-63v02/d319) | The February decree created committees and commissioned a national plan. The date in early August for approval of the plan is Taylor’s account. These are different steps. |
+| **2:04–3:53 · Hamlets as units of administration, local security, and population control** | Nguyễn Hoàng Nhựt and Lê Đình Trọng (2024), pp. 173–174, citing Republic of Vietnam records. J. C. Donnell and Gerald Cannon Hickey, *The Vietnamese “Strategic Hamlets”: A Preliminary Report*, RAND RM-3208-ARPA (1962), pp. 2, 4–9. Republic of Vietnam, Third Tactical Zone Instruction, 16 March 1962, cited in Phạm Đức Thuận (2017), pp. 63–64. [Vietnamese study](https://dthujs.vn/index.php/dthujs/article/view/1913) · [RAND report](https://www.rand.org/pubs/research_memoranda/RM3208.html) | The Vietnamese study gives the policy and reporting structure through archival references. The survey describes regrouping of isolated families, local administration (hamlet chief and three assistants), local security (Self-Defense Corps of 5–12 men, Republican Youth auxiliary warning/guard groups, varying fortifications, and external reinforcement from mobile Civil Guard and Army units), and rural teams. The Third Tactical Zone instruction specifies population-control measures (household registration, identity cards, checkpoints, curfews, surprise patrols, and food transport regulation) and distinguishes strategic hamlets from front-line fighting hamlets in that zone. These rules describe one tactical zone and survey model rather than uniform nationwide practice. |
+| **3:53–4:42 · Workdays, farm labor, and tobacco crop losses** | Donnell and Hickey, RAND RM-3208-ARPA, preface (p. v) and pp. 10–12. [Contemporary field report](https://www.rand.org/pubs/research_memoranda/RM3208.html) | This was a preliminary survey of selected areas conducted in early 1962, not a nationwide assessment or military evaluation. The 45–90 workday range describes surveyed cases and does not establish a nationwide total or average. Some farmers blamed the work schedule for much of the damage to their tobacco crop; this is the farmers’ account as reported by the researchers and does not establish that all farms were affected or that work alone caused the losses. |
+| **4:42–5:06 · Distant-labor case and differing accounts of pay** | Donnell and Hickey, RAND RM-3208-ARPA, p. 12. [Contemporary field report](https://www.rand.org/pubs/research_memoranda/RM3208.html) | In one hamlet, villagers were sent to work in other hamlets, sometimes up to 100 km away. This is a separate observation from the 45–90 workday cases. Officials and farmers gave conflicting accounts of whether workers received ten piastres and lunch; both accounts are attributed separately. |
+| **5:06–5:34 · Different layouts in Vĩnh Long** | Theodore Heavner’s letter, 19 March 1962, pp. 248–249, relaying the survey team’s observations. [FRUS II, doc. 116](https://history.state.gov/historicaldocuments/frus1961-63v02/d116) | Heavner records a different layout in some surveyed hamlets. The letter does not identify every hamlet mentioned or establish that these examples appeared in Taylor’s count. |
+| **5:34–6:23 · Reported completions and Taylor’s estimate** | Maxwell D. Taylor, memorandum to Robert McNamara, 17 November 1962, §3, immediately before p. 737. [Contemporary policy assessment, FRUS II, doc. 319](https://history.state.gov/historicaldocuments/frus1961-63v02/d319) | Taylor records 3,353 hamlets reported complete and estimates that probably no more than 600 met the expected characteristics for equipment, defensive works, security forces and government. The figures do not directly establish safety, territorial control or residents’ support. |
+| **6:23–7:10 · Long An in 1963** | U.S. Embassy telegram 1122, 7 December 1963, §2, relaying the report of USOM provincial representative Earl J. Young [FRUS IV, doc. 352], and Michael V. Forrestal, Memorandum to President Johnson, 11 December 1963 [FRUS IV, doc. 360]. | Provincial officials reported 219 completed hamlets at the end of September 1963. By late November, an American assessment found about 45 remaining viable. In his memorandum to the White House, Forrestal presented two explanations for the discrepancy: either hamlets lost effectiveness under insurgent pressure when protection and reinforcements proved inadequate, or earlier reporting had been overstated with hamlets that never met the standard. These figures represent differing reporting dates and assessments, not a direct count of physically destroyed villages. |
+| **7:10–8:26 · How the Pentagon Papers framed the program & closing** | U.S. Department of Defense, *The Pentagon Papers*, part IV.B.2, *The Strategic Hamlet Program, 1961–1963*, Summary and Analysis, pp. i–ii [NARA NAID 5890494](https://www.archives.gov/research/pentagon-papers) · [FRUS II, doc. 116](https://history.state.gov/historicaldocuments/frus1961-63v02/d116) | The 1969 retrospective study described sequential phases (clearing insurgents and protecting the population, establishing government functions, then providing services) and cautioned that physical security alone was not enough. The contemporary reports discussed here leave the degree of change in security in Củ Chi unresolved. |
+
+## Evidence limitations
+
+The Củ Chi photographs and the field survey are separate lines of evidence. The photographs do not identify the people whose accounts appear in the survey. Taylor’s estimate and the Long An figures have their own dates, assessors and purposes. Each comparison in the film is limited to what the underlying document records.
+
+## Visual sources and rights
+
+| Visual in the final cut | Provenance and basis for use |
+| :--- | :--- |
+| Archival photographs of Củ Chi ceremony, fortifications, fence and trench (3 March 1962) | Truman Library / Arthur Z. Gardiner Papers, NARA NAIDs `348663361`, `348663363`, `348663365`, `348663371`, `348663381`. [Catalog record (2014-1951)](https://www.trumanlibrary.gov/photograph-records/2014-1951) · Cleared by the channel editorial team for historical educational documentary use (labeled on screen as `ARCHIVAL PHOTO`). |
+| Archival 16mm color film footage, Tuy Hòa (16–18 September 1962) | U.S. National Archives (NARA) NAID `28773` (`111-lc-46108`) & NAID `28774` (`111-lc-46109`). Use Restriction: **Unrestricted**. Preserved in original uncropped aspect ratio and labeled on screen as illustrative context for contemporary hamlet construction and defense. |
+| Pentagon Papers document scan (Part IV.B.2, Summary & Analysis, p. i) | U.S. National Archives (NARA) NAID `5890494` — U.S. Government Public Domain. |
+| Historical regional maps and analytical callout cards | Channel-created editorial graphics built with Natural Earth public-domain coastlines/boundaries (`EDITORIAL GRAPHIC` / map attribution on screen). |
+
+## Corrections and updates
+
+If you spot a factual error, please give the episode timecode and a reference in a comment. Material changes are recorded in the channel’s [Corrections & Updates log](../../Corrections-and-Updates.md). See also the [Editorial Standards](../../Editorial-Standards.md).
+
+## Acknowledgments
+
+No independent historical adviser or reviewer is credited in this version.
